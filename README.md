@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
