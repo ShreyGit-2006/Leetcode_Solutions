@@ -4,11 +4,11 @@ class Solution {
         int temp=Math.abs(x);
         int rem=0;
         int rev=0;
-        while(temp>0)
+        while(temp!=0)
         {
             rem=temp%10;
             // Overflow check
-            if (rev > (Integer.MAX_VALUE - rem) / 10)
+            if (rev > (Integer.MAX_VALUE-rem)/10)
                 return 0;
             rev=(rev*10)+rem;
             temp=temp/10;
