@@ -9,13 +9,11 @@ class Solution {
             {
                 num1=num1+i;
             }
-        }
-        for(i=1;i<=n;i++)
-        {
             if(i%m==0)
             {
                 num2=num2+i;
             }
+            
         }
         return num1-num2;
     }
