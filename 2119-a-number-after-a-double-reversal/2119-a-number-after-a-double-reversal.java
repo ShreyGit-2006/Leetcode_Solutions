@@ -17,7 +17,6 @@ class Solution {
             rev=(rev*10)+rem;
             temp1=temp1/10;
         }
-        if(num==rev) return true;
-        else return false;
+        return num==rev;
     }
 }
