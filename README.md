@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
+| [2544-alternating-digit-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2652-sum-multiples) |
