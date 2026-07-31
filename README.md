@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 ## Math
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
