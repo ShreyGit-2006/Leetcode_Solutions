@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
