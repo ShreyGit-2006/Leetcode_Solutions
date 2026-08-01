@@ -24,16 +24,13 @@ class Solution {
                             }
                         }
 
-                        if (count == 0 && temp>currPrime)
-                            currPrime = temp;
+                        if (count == 0 && temp>maxPrime)
+                            maxPrime = temp;
                     }
                 }
             }
 
-            if (currPrime > maxPrime)
-                maxPrime = currPrime;
         }
-
         return maxPrime;
     }
 }
