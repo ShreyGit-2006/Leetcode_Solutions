@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0896-monotonic-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 ## Enumeration
 |  |
