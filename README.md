@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0507-perfect-number) |
+| [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 | [2413-smallest-even-multiple](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
