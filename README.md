@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2057-smallest-index-with-equal-value](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
