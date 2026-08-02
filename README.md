@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1184-distance-between-bus-stops) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1550-three-consecutive-odds](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
