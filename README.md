@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Enumeration
 |  |
 | ------- |
@@ -130,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0812-largest-triangle-area) |
+## Sorting
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
