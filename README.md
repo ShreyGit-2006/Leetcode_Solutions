@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
