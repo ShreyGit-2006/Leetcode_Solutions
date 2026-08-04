@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Enumeration
 |  |
 | ------- |
