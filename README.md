@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1184-distance-between-bus-stops) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1550-three-consecutive-odds](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Greedy
 |  |
 | ------- |
