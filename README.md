@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2235-add-two-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
+| [2427-number-of-common-factors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2843-count-symmetric-integers) |
 ## Hash Table
 |  |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
