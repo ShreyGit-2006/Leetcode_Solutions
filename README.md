@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [0812-largest-triangle-area](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
+| [1175-prime-arrangements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -172,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
