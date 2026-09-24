@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Counting
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
