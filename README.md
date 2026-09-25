@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 ## Matrix
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
