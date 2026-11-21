@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0507-perfect-number) |
@@ -246,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
