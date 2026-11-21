@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Geometry
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
