@@ -5,7 +5,6 @@ class Solution {
         {
            n/=2;
         }
-        if (n==1) return true;
-        else return false;
+        return n==1;
     }
 }
