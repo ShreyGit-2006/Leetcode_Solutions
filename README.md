@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0065-valid-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
