@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Geometry
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
@@ -258,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
