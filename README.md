@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
