@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
