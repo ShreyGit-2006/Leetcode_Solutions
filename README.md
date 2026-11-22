@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
