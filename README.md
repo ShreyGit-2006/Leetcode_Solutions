@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [0831-masking-personal-information](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0831-masking-personal-information) |
 ## Divide and Conquer
 |  |
