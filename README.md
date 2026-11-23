@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0143-reorder-list) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
