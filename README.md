@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0326-power-of-three) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2427-number-of-common-factors](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2843-count-symmetric-integers) |
@@ -222,14 +226,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 ## Two Pointers
 |  |
