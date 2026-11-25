@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2057-smallest-index-with-equal-value](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2785-sort-vowels-in-a-string](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
