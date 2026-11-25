@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2785-sort-vowels-in-a-string](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [0831-masking-personal-information](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0831-masking-personal-information) |
+| [2785-sort-vowels-in-a-string](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
