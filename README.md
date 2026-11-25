@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0231-power-of-two) |
