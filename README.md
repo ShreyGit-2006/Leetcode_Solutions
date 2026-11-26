@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
