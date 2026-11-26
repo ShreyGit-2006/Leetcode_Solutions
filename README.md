@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0941-valid-mountain-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
