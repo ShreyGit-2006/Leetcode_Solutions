@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1184-distance-between-bus-stops) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -384,4 +388,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
