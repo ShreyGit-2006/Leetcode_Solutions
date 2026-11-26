@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
