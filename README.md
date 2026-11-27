@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3030-find-the-grid-of-region-average](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/3030-find-the-grid-of-region-average) |
+| [3169-count-days-without-meetings](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/3169-count-days-without-meetings) |
 ## Math
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3169-count-days-without-meetings](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
