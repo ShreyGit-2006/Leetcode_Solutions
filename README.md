@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2843-count-symmetric-integers) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShreyGit-2006/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
